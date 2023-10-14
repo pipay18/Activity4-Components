@@ -1,2 +1,2 @@
-# Activity4-Components
-Bongcaras-BSIT3A
+# Activity-4_MobileComponents
+Sarabia - BSIT3A
